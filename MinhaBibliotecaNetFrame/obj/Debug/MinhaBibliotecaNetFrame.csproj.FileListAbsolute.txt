@@ -1,0 +1,6 @@
+C:\Users\Tobias\source\repos\MinhaBibliotecaNetFrame\MinhaBibliotecaNetFrame\bin\Debug\MinhaBibliotecaNetFrame.dll
+C:\Users\Tobias\source\repos\MinhaBibliotecaNetFrame\MinhaBibliotecaNetFrame\bin\Debug\MinhaBibliotecaNetFrame.pdb
+C:\Users\Tobias\source\repos\MinhaBibliotecaNetFrame\MinhaBibliotecaNetFrame\obj\Debug\MinhaBibliotecaNetFrame.csprojAssemblyReference.cache
+C:\Users\Tobias\source\repos\MinhaBibliotecaNetFrame\MinhaBibliotecaNetFrame\obj\Debug\MinhaBibliotecaNetFrame.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\source\repos\MinhaBibliotecaNetFrame\MinhaBibliotecaNetFrame\obj\Debug\MinhaBibliotecaNetFrame.dll
+C:\Users\Tobias\source\repos\MinhaBibliotecaNetFrame\MinhaBibliotecaNetFrame\obj\Debug\MinhaBibliotecaNetFrame.pdb
